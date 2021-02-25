@@ -1,0 +1,10 @@
+@import 'import/variable';
+@import 'test/base';
+
+.button {
+  padding: 20px;
+}
+
+html {
+  background-color: $bg_color;
+}
